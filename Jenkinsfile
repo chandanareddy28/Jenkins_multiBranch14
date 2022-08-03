@@ -8,5 +8,4 @@ stage('Continuousbuild_master')
  { 
  sh label: '', script: 'mvn package' 
  } 
-}
-
+} 
